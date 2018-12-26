@@ -1,0 +1,11 @@
+/Users/amarkisoensingh/Github/HR/Development-6A/bin/Debug/netcoreapp2.1/Development-6A.deps.json
+/Users/amarkisoensingh/Github/HR/Development-6A/bin/Debug/netcoreapp2.1/Development-6A.runtimeconfig.json
+/Users/amarkisoensingh/Github/HR/Development-6A/bin/Debug/netcoreapp2.1/Development-6A.runtimeconfig.dev.json
+/Users/amarkisoensingh/Github/HR/Development-6A/bin/Debug/netcoreapp2.1/Development-6A.dll
+/Users/amarkisoensingh/Github/HR/Development-6A/bin/Debug/netcoreapp2.1/Development-6A.pdb
+/Users/amarkisoensingh/Github/HR/Development-6A/obj/Debug/netcoreapp2.1/Development-6A.csprojAssemblyReference.cache
+/Users/amarkisoensingh/Github/HR/Development-6A/obj/Debug/netcoreapp2.1/Development-6A.csproj.CoreCompileInputs.cache
+/Users/amarkisoensingh/Github/HR/Development-6A/obj/Debug/netcoreapp2.1/Development-6A.AssemblyInfoInputs.cache
+/Users/amarkisoensingh/Github/HR/Development-6A/obj/Debug/netcoreapp2.1/Development-6A.AssemblyInfo.cs
+/Users/amarkisoensingh/Github/HR/Development-6A/obj/Debug/netcoreapp2.1/Development-6A.dll
+/Users/amarkisoensingh/Github/HR/Development-6A/obj/Debug/netcoreapp2.1/Development-6A.pdb
